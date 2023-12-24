@@ -1,6 +1,6 @@
 R4  -    
     - GitHub link - https://github.com/Bradley-ok
-    - Slide deck link - https://youtu.be/dKg4nTSc4Rs
+    - Slide deck link -
 
 
 R5 - Code style guide is based on PEP8
